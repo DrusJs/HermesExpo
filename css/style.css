@@ -253,8 +253,8 @@ ul {
     background-color: var(--color-accent-active);
 }
 
-.button-wrapper  .button {
-    padding-top: 27px 62px;
+.button-wrapper .button {
+    padding: 27px 62px;
 }
 
 .button-arrow {
